@@ -1,0 +1,34 @@
+{
+    "music_data": {
+        "thumb_type": "BIG",
+        "title": "夜明けと蛍",
+        "artists": {
+            "vocal": [["linked", "HHAAmh3WFA"]],
+            "composer": [["linked", "YhhLtjjmDY"]],
+            "lyricist": [["linked", "YhhLtjjmDY"]],
+            "illustrator": [["plain", "No.734"]]
+        },
+        "albums": ["2YWH8B6j3Y"],
+        "release_date": "2014-11-11",
+        "genre": ["Vocaloid"],
+        "duration": "5:09",
+        "availables": {
+            "thumb": true,
+            "lyrics": true,
+            "mv_link": false,
+            "wiki": false
+        },
+        "lyrics": "WLAjjtiEHL",
+        "thumbs": "5mL5pQ2pEB",
+        "external_links": {
+            "spotify": "https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng",
+            "youtube": "https://www.youtube.com/watch?v=EpFxTXgElLA"
+        },
+        "description": "하츠네 미쿠의 VOCALOID 오리지널 곡으로, 음성 합성 엔진 프로듀서 n-buna가 작곡한 곡이다. 2014년 10월 8일에 IA THE WORLD ~心~으로 IA 버전으로 발표되었으며 2014년 11월 11일 니코니코 동화에 미쿠 버전이 업로드 되었다. (출처: 나무위키)",
+        "tags": ["vocaloid", "vocaloid/2014", "hatsune_miku", "n-buna"]
+    },
+    "nrwiki_data": {
+        "created_at": "2024-04-03T12:00:00Z",
+        "updated_at": "2024-04-03T12:00:00Z"
+    }
+}
